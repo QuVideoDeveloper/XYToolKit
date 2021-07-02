@@ -1,6 +1,6 @@
 Pod::Spec.new do |s|
   s.name        = 'XYToolKit'
-  s.version     = '1.0.0'
+  s.version     = '1.0.1'
   s.summary     = '中台工具类'
   s.homepage    = 'https://github.com/QuVideoDeveloper/XYToolKit'
   s.license     = { :type => 'GPL', :file => 'LICENSE' }
